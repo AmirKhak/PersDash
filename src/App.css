@@ -31,3 +31,15 @@
     transform: rotate(360deg);
   }
 }
+
+.login {
+  background-color: yellow;
+  display: block;
+  height: 1000px;
+}
+
+.message {
+  display: block;
+  height: 70px;
+  width: 100%;
+}
